@@ -27,6 +27,7 @@ Want to help and add resources? Awesome! Checkout our [CONTRIBUTING guidelines](
 
 ### JavaScript
 
+* **[JavaScript MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript)**
 * **[JS Hint](http://jshint.com/)** - A JavaScript validator
 
 ### General
