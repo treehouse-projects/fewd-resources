@@ -31,7 +31,7 @@ Want to help and add resources? Awesome! Checkout our [CONTRIBUTING guidelines](
 
 ### General
 
-* 
+* **[Treehouse Blog](http://blog.teamtreehouse.com)**
 
 ### Slack
 
