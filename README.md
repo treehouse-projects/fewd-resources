@@ -24,6 +24,7 @@ Want to help and add resources? Awesome! Checkout our [CONTRIBUTING guidelines](
 ### CSS
 
 * **[CSS Validation](https://jigsaw.w3.org/css-validator/)**
+* **[CSS Complete Guide To Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)**
 
 ### JavaScript
 
