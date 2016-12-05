@@ -31,6 +31,7 @@ Want to help and add resources? Awesome! Checkout our [CONTRIBUTING guidelines](
 
 * **[JavaScript MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript)**
 * **[JS Hint](http://jshint.com/)** - A JavaScript validator
+* **[ES6 Features](https://github.com/lukehoban/es6features)** - A list of ES6 features, making it easier to see what's new
 
 ### General
 
