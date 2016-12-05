@@ -12,8 +12,8 @@ Want to help and add resources? Awesome! Checkout our [CONTRIBUTING guidelines](
 [JavaScript](#JavaScript) · 
 [General](#General) · 
 [Slack](#Slack) · 
-[Career](#Career)
-
+[Career](#Career) · 
+[Book Recommendations](#book-recommendations)
 
 -------
 
