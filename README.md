@@ -20,6 +20,7 @@ Want to help and add resources? Awesome! Checkout our [CONTRIBUTING guidelines](
 ### HTML
 
 * **[HTML Validation](https://validator.w3.org/)**
+* **[Browser support table for HTML, CSS and JS features](http://caniuse.com/)**
 
 ### CSS
 
@@ -34,12 +35,37 @@ Want to help and add resources? Awesome! Checkout our [CONTRIBUTING guidelines](
 ### General
 
 * **[Treehouse Blog](http://blog.teamtreehouse.com)**
+* **[CSS Tricks](https://css-tricks.com/)**
+* **[A List Apart](http://alistapart.com/)**
 
 ### Slack
 
-* 
+* **[How to add channels](https://get.slack.help/hc/en-us/articles/205239967-Browse-and-join-channels)**
+* **[Formatting messages](https://get.slack.help/hc/en-us/articles/202288908-Format-your-messages)**
 
 ### Career
 
 *
 
+### Book recommendations
+
+#### HTML
+
+##### Beginner
+
+* **[Head First HTML5 Programming](https://www.wickedlysmart.com/head-first-html5/)**
+
+#### JavaScript
+
+##### Beginner
+
+* **[Head First JavaScript Programming](https://www.wickedlysmart.com/hfjs/)**
+
+##### Intermediate
+
+* **[JavaScript and jQuery by Jon Duckett](http://javascriptbook.com/)**
+
+##### Advanced
+
+* **[Eloquent JavaScript: A Modern Introduction to Programming](http://amzn.to/2gd98k7)**
+* **[JavaScript: The Good Parts](http://amzn.to/2hb5XeJ)**
