@@ -44,6 +44,7 @@ Want to help and add resources? Awesome! Checkout our [CONTRIBUTING guidelines](
 * **[How to add channels](https://get.slack.help/hc/en-us/articles/205239967-Browse-and-join-channels)**
 * **[Formatting messages](https://get.slack.help/hc/en-us/articles/202288908-Format-your-messages)**
 * **[Search for messages and files](https://get.slack.help/hc/en-us/articles/202528808-Search-for-messages-and-files)**
+* **[Keyboard Shortcuts](https://get.slack.help/hc/en-us/articles/201374536-Slack-keyboard-shortcuts)**
 
 ### Career
 
