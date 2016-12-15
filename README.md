@@ -7,12 +7,12 @@ Want to help and add resources? Awesome! Checkout our [CONTRIBUTING guidelines](
  
 ## Index
 
-[HTML](#HTML) · 
-[CSS](#CSS) · 
-[JavaScript](#JavaScript) · 
-[General](#General) · 
-[Slack](#Slack) · 
-[Career](#Career) · 
+[HTML](#html) · 
+[CSS](#css) · 
+[JavaScript](#javascript) · 
+[General](#general) · 
+[Slack](#slack) · 
+[Career](#career) · 
 [Book Recommendations](#book-recommendations)
 
 -------
@@ -27,6 +27,7 @@ Want to help and add resources? Awesome! Checkout our [CONTRIBUTING guidelines](
 * **[CSS Validation](https://jigsaw.w3.org/css-validator/)**
 * **[CSS Complete Guide To Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)**
 * **[Flexbox Froggy](http://flexboxfroggy.com/)** - A game that helps you practice flexbox
+* **[Can I Use](http://caniuse.com/)** - Check browser support for various CSS features.
 
 ### JavaScript
 
