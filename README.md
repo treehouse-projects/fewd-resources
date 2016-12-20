@@ -21,13 +21,13 @@ Want to help and add resources? Awesome! Checkout our [CONTRIBUTING guidelines](
 
 * **[HTML Validation](https://validator.w3.org/)**
 * **[Browser support table for HTML, CSS and JS features](http://caniuse.com/)**
+* **[Code Guide by @mdo](http://codeguide.co/)** - Standards for developing flexible, durable, and sustainable HTML and CSS.
 
 ### CSS
 
 * **[CSS Validation](https://jigsaw.w3.org/css-validator/)**
 * **[CSS Complete Guide To Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)**
 * **[Flexbox Froggy](http://flexboxfroggy.com/)** - A game that helps you practice flexbox
-* **[Can I Use](http://caniuse.com/)** - Check browser support for various CSS features.
 
 ### JavaScript
 
@@ -40,6 +40,7 @@ Want to help and add resources? Awesome! Checkout our [CONTRIBUTING guidelines](
 * **[Treehouse Blog](http://blog.teamtreehouse.com)**
 * **[CSS Tricks](https://css-tricks.com/)**
 * **[A List Apart](http://alistapart.com/)**
+* **[Google PageSpeed Tools](https://developers.google.com/speed/pagespeed/)** - Tools to analyze and optimize your site following web best practices.
 
 ### Slack
 
