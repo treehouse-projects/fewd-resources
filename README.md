@@ -75,3 +75,55 @@ Want to help and add resources? Awesome! Checkout our [CONTRIBUTING guidelines](
 
 * **[Eloquent JavaScript: A Modern Introduction to Programming](http://amzn.to/2gd98k7)**
 * **[JavaScript: The Good Parts](http://amzn.to/2hb5XeJ)**
+
+
+### Project specific resources
+
+#####  Project-1
+
+* **[]()**
+
+#####  Project-2
+
+* **[]()**
+
+#####  Project-3
+
+* **[]()**
+
+#####  Project-4
+
+* **[]()**
+
+#####  Project-5
+
+* **[]()**
+
+#####  Project-6 
+
+* **[]()**
+
+#####  Project-7 
+
+* **[]()**
+
+#####  Project-8 
+
+* **[]()**
+
+#####  Project-9 
+
+* **[]()**
+
+#####  Project-10 
+
+* **[]()**
+
+#####  Project-11
+
+* **[]()**
+
+#####  Project-12
+
+* **[]()**
+
