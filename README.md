@@ -1,5 +1,4 @@
-#Treehouse Front-End Web Development Techdegree Resources
-
+# Treehouse Front-End Web Development Techdegree Resources
 
 This is a community based list of resources for the [Front-End Web Development Techdegree](https://www.teamtreehouse.com). 
 
