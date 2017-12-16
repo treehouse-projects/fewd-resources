@@ -75,6 +75,8 @@ Want to help and add resources? Awesome! Checkout our [CONTRIBUTING guidelines](
 
 * **[How to Get Your First Job in Tech](https://medium.com/team-treehouse/how-to-get-your-first-job-in-tech-7478a51fc78)** - Awesome article by Treehouse founder and CEO, Ryan Carson
 
+-------
+
 ### Code Challenges
 These code challenges are conveniently presented in Treehosue Workspaces.  Just click the link, fork the snapshot, and have fun improving your skills.
 #### Beginner to Intermediate
@@ -86,6 +88,8 @@ These code challenges are conveniently presented in Treehosue Workspaces.  Just 
 #### Intermediate to Advanced
 
 * **[Question Mark Challenge](https://w.trhou.se/jsefd2wmm6)**
+
+-------
 
 ### Book recommendations
 
@@ -111,6 +115,7 @@ These code challenges are conveniently presented in Treehosue Workspaces.  Just 
 * **[Eloquent JavaScript: A Modern Introduction to Programming](http://amzn.to/2gd98k7)**
 * **[JavaScript: The Good Parts](http://amzn.to/2hb5XeJ)**
 
+-------
 
 ### Project specific resources
 
