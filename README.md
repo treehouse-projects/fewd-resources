@@ -7,13 +7,27 @@ Want to help and add resources? Awesome! Checkout our [CONTRIBUTING guidelines](
  
 ## Index
 
-[HTML](#html) · 
+- [HTML](#html) · 
 [CSS](#css) · 
 [JavaScript](#javascript) · 
 [General](#general) · 
 [Slack](#slack) · 
 [Career](#career) · 
-[Book Recommendations](#book-recommendations)
+[Book Recommendations](#book-recommendations) ·
+[Fun Code Challenges](#code-challenges)
+
+- [Project-1: Personal Profile Page](#project-1)
+- [Project-2: Responsive Layout](#project-2)
+- [Project-3: Online Registration Form](#project-3)
+- [Project-4: Interactive Photo Gallery](#project-4)
+- [Project-5: Sass Style Guide](#project-5)
+- [Project-6: Interactive Video Player](#project-6)
+- [Project-7: Game Show App](#project-7)
+- [Project-8: SVG Animations](#project-8)
+- [Project-9Web App Dashboard](#project-9)
+- [Project-10: Public API](#project-10)
+- [Project-11: React Flickr Gallery](#project-11)
+- [Project-12: Capstone - Online Portfolio](#project-12)
 
 -------
 
@@ -26,8 +40,10 @@ Want to help and add resources? Awesome! Checkout our [CONTRIBUTING guidelines](
 ### CSS
 
 * **[CSS Validation](https://jigsaw.w3.org/css-validator/)**
+* **[CSS Tricks](https://css-tricks.com/)**
 * **[CSS Complete Guide To Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)**
 * **[Flexbox Froggy](http://flexboxfroggy.com/)** - A game that helps you practice flexbox
+* **[CSS Code Challenges](https://100dayscss.com/)**
 
 ### JavaScript
 
@@ -35,12 +51,18 @@ Want to help and add resources? Awesome! Checkout our [CONTRIBUTING guidelines](
 * **[JS Hint](http://jshint.com/)** - A JavaScript validator
 * **[ES6 Features](https://github.com/lukehoban/es6features)** - A list of ES6 features, making it easier to see what's new
 
+
 ### General
 
 * **[Treehouse Blog](http://blog.teamtreehouse.com)**
-* **[CSS Tricks](https://css-tricks.com/)**
-* **[A List Apart](http://alistapart.com/)**
+* **[Dirty Markup](https://www.10bestdesign.com/dirtymarkup/)** - Great tool for helping to keep your code clean, organized, and properly indented
+* **[Front End Cheatsheets](https://medium.freecodecamp.org/modern-frontend-hacking-cheatsheets-df9c2566c72a)**
+* **[Overcomming Imposter Syndrome](https://medium.com/learn-love-code/developers-how-to-overcome-imposter-syndrome-48edee803cf4)**
+* **[Overcomming Imposter Syndrome](https://medium.freecodecamp.org/clobbering-imposter-syndrome-with-your-mental-searchlight-b9df0b2e88eb)**
+* **[Google's Material Design Guidelines](https://material.io/guidelines/)** - Great for getting a handle on the principles of modern web design
 * **[Google PageSpeed Tools](https://developers.google.com/speed/pagespeed/)** - Tools to analyze and optimize your site following web best practices.
+* **[Steps to the Perfect Website Layout](http://www.creativebloq.com/web-design/steps-perfect-website-layout-812625)**
+* **[A List Apart](http://alistapart.com/)**
 
 ### Slack
 
@@ -51,7 +73,19 @@ Want to help and add resources? Awesome! Checkout our [CONTRIBUTING guidelines](
 
 ### Career
 
-*
+* **[How to Get Your First Job in Tech](https://medium.com/team-treehouse/how-to-get-your-first-job-in-tech-7478a51fc78)** - Awesome article by Treehouse founder and CEO, Ryan Carson
+
+### Code Challenges
+These code challenges are conveniently presented in Treehosue Workspaces.  Just click the link, fork the snapshot, and have fun improving your skills.
+#### Beginner to Intermediate
+
+* **[Is This String a Palindrome](https://w.trhou.se/i6at03939l)**
+* **[Foobar Loop Challenge](https://w.trhou.se/h0jqayo7lu)**
+* **[What Century is it Again?](https://w.trhou.se/bwu980ycrp)**
+
+#### Intermediate to Advanced
+
+* **[Question Mark Challenge](https://w.trhou.se/jsefd2wmm6)**
 
 ### Book recommendations
 
@@ -70,6 +104,7 @@ Want to help and add resources? Awesome! Checkout our [CONTRIBUTING guidelines](
 ##### Intermediate
 
 * **[JavaScript and jQuery by Jon Duckett](http://javascriptbook.com/)**
+* **[You Don't Know JS: ES6 & Beyond by Kyle Simpson](https://github.com/getify/You-Dont-Know-JS/tree/master/es6%20%26%20beyond)**
 
 ##### Advanced
 
