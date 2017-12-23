@@ -79,14 +79,16 @@ Want to help and add resources? Awesome! Checkout our [CONTRIBUTING guidelines](
 
 ### Code Challenges
 These code challenges are conveniently presented in Treehosue Workspaces.  Just click the link, fork the snapshot, and have fun improving your skills.
-#### Beginner to Intermediate
 
+#### Beginner
 * **[Is This String a Palindrome](https://w.trhou.se/i6at03939l)**
-* **[Foobar Loop Challenge](https://w.trhou.se/h0jqayo7lu)**
 * **[What Century is it Again?](https://w.trhou.se/bwu980ycrp)**
+* **[Foobar Loop Challenge](https://w.trhou.se/h0jqayo7lu)**
 
-#### Intermediate to Advanced
+#### Intermediate
+* **[Reverse the Words](https://w.trhou.se/yju71azuk9)**
 
+#### Advanced
 * **[Question Mark Challenge](https://w.trhou.se/jsefd2wmm6)**
 
 -------
