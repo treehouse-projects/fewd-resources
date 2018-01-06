@@ -24,7 +24,7 @@ Want to help and add resources? Awesome! Checkout our [CONTRIBUTING guidelines](
 - [Project-6: Interactive Video Player](#project-6)
 - [Project-7: Game Show App](#project-7)
 - [Project-8: SVG Animations](#project-8)
-- [Project-9Web App Dashboard](#project-9)
+- [Project-9: Web App Dashboard](#project-9)
 - [Project-10: Public API](#project-10)
 - [Project-11: React Flickr Gallery](#project-11)
 - [Project-12: Capstone - Online Portfolio](#project-12)
@@ -84,6 +84,7 @@ These code challenges are conveniently presented in Treehosue Workspaces.  Just 
 * **[Is This String a Palindrome](https://w.trhou.se/i6at03939l)**
 * **[What Century is it Again?](https://w.trhou.se/bwu980ycrp)**
 * **[Foobar Loop Challenge](https://w.trhou.se/h0jqayo7lu)**
+* **[Flatland Battalion Count](https://w.trhou.se/omaw377t3h)**
 
 #### Intermediate
 * **[Reverse the Words](https://w.trhou.se/yju71azuk9)**
