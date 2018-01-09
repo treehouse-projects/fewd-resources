@@ -84,7 +84,7 @@ These code challenges are conveniently presented in Treehosue Workspaces.  Just 
 * **[Is This String a Palindrome](https://w.trhou.se/i6at03939l)**
 * **[What Century is it Again?](https://w.trhou.se/bwu980ycrp)**
 * **[Foobar Loop Challenge](https://w.trhou.se/h0jqayo7lu)**
-* **[Flatland Battalion Count](https://w.trhou.se/omaw377t3h)**
+* **[Flatland Battalion Count](https://w.trhou.se/0f1zxvo29y)**
 
 #### Intermediate
 * **[Reverse the Words](https://w.trhou.se/yju71azuk9)**
