@@ -124,7 +124,20 @@ These code challenges are conveniently presented in Treehosue Workspaces.  Just 
 
 #####  Project-1
 
-* **[]()**
+* **[Study Guide](https://docs.google.com/document/d/1Hzjspw2CEDQKFe-4K-ETE56oCihqOXPE1UZFbIIVT0w/edit)**
+* **[Text Editors](https://teamtreehouse.com/library/introducing-text-editors)**
+* **[Using Treehouse Workspaces](https://teamtreehouse.com/library/using-treehouse-workspaces)**
+* **[Adding Images](https://teamtreehouse.com/library/adding-images-to-the-page)**
+* **[Set Up an HTML Document](https://teamtreehouse.com/library/set-up-an-html-document)**
+* **[Understanding File Paths](https://teamtreehouse.com/library/understanding-file-paths)**
+* **[Anchor Tags](https://teamtreehouse.com/library/introduction-to-html-and-css/html-the-structural-foundation-of-web-pages-and-applications/anchor-tags)**
+* **[Linking it All Up ](https://teamtreehouse.com/library/introduction-to-html-and-css/adding-a-new-web-page/-linking-it-all-up)**
+* **[Image Tags](https://teamtreehouse.com/library/introduction-to-html-and-css/html-the-structural-foundation-of-web-pages-and-applications/image-tags)**
+* **[Adding Images](https://teamtreehouse.com/library/adding-images-to-the-page)**
+* **[Free Online Image Editing Tool](http://www.picresize.com/)**
+* **[Validation Checklist](https://docs.google.com/document/d/1rwLgab3ac0tOB8cOHx0XZMuy-oxA33qJqzh_cBs5Kdk/edit#)**
+* **[HTML Validator](https://validator.w3.org/#validate_by_input)**
+* **[CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input)**
 
 #####  Project-2
 
