@@ -88,6 +88,7 @@ These code challenges are conveniently presented in Treehosue Workspaces.  Just 
 
 #### Intermediate
 * **[Reverse the Words](https://w.trhou.se/yju71azuk9)**
+* **[2D Array - Morale Checker](https://w.trhou.se/nup7xll15c)**
 
 #### Advanced
 * **[Question Mark Challenge](https://w.trhou.se/jsefd2wmm6)**
@@ -141,7 +142,7 @@ These code challenges are conveniently presented in Treehosue Workspaces.  Just 
 
 #####  Project-2
 
-* **[]()**
+* **[Study Guide](https://drive.google.com/file/d/1QvmoX1QIxJj7BL0d9OoiDBM4JD00VCT7/view?usp=sharing)**
 
 #####  Project-3
 
