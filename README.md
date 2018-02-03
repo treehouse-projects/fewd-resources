@@ -1,4 +1,4 @@
-#Treehouse Front-End Web Development Techdegree Resources
+# Treehouse Front-End Web Development Techdegree Resources
 
 
 This is a community based list of resources for the [Front-End Web Development Techdegree](https://www.teamtreehouse.com). 
@@ -154,11 +154,11 @@ These code challenges are conveniently presented in Treehosue Workspaces.  Just 
 
 #####  Project-5
 
-* **[]()**
+* **[Study Guide](https://drive.google.com/file/d/1D_hZNfKwO4GiguSceEEQp9JOPrGvMbrw/view?usp=sharing)**
 
 #####  Project-6 
 
-* **[]()**
+* **[Study Guide](https://drive.google.com/file/d/1mtnJV5XtBywvIVC2xMnwF5T2DHXjeXxF/view?usp=sharing)**
 
 #####  Project-7 
 
