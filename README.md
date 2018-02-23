@@ -13,8 +13,7 @@ Want to help and add resources? Awesome! Checkout our [CONTRIBUTING guidelines](
 [General](#general) · 
 [Slack](#slack) · 
 [Career](#career) · 
-[Book Recommendations](#book-recommendations) ·
-[Fun Code Challenges](#code-challenges)
+[Book Recommendations](#book-recommendations)
 
 - [Project-1: Personal Profile Page](#project-1)
 - [Project-2: Responsive Layout](#project-2)
@@ -74,25 +73,6 @@ Want to help and add resources? Awesome! Checkout our [CONTRIBUTING guidelines](
 ### Career
 
 * **[How to Get Your First Job in Tech](https://medium.com/team-treehouse/how-to-get-your-first-job-in-tech-7478a51fc78)** - Awesome article by Treehouse founder and CEO, Ryan Carson
-
--------
-
-### Code Challenges
-These code challenges are conveniently presented in Treehosue Workspaces.  Just click the link, fork the snapshot, and have fun improving your skills.
-
-#### Beginner
-* **[Is This String a Palindrome](https://w.trhou.se/i6at03939l)**
-* **[What Century is it Again?](https://w.trhou.se/bwu980ycrp)**
-* **[Foobar Loop Challenge](https://w.trhou.se/h0jqayo7lu)**
-* **[Flatland Battalion Count](https://w.trhou.se/0f1zxvo29y)**
-* **[The "Max" Game](https://w.trhou.se/x9nk7sz512)**
-
-#### Intermediate
-* **[Reverse the Words](https://w.trhou.se/yju71azuk9)**
-* **[2D Array - Morale Checker](https://w.trhou.se/nup7xll15c)**
-
-#### Advanced
-* **[Question Mark Challenge](https://w.trhou.se/jsefd2wmm6)**
 
 -------
 
