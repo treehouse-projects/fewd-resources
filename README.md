@@ -43,6 +43,8 @@ Want to help and add resources? Awesome! Checkout our [CONTRIBUTING guidelines](
 * **[CSS Complete Guide To Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)**
 * **[Flexbox Froggy](http://flexboxfroggy.com/)** - A game that helps you practice flexbox
 * **[CSS Code Challenges](https://100dayscss.com/)**
+* **[CSS Resets Explained](https://cssreset.com/what-is-a-css-reset/)**
+* **[A CSS Reset - Ready For Use](https://necolas.github.io/normalize.css/)**
 
 ### JavaScript
 
